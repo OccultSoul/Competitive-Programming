@@ -13,7 +13,7 @@ If the number is 11, stop taking input and exit. Else, print the number given to
 using namespace std;
 int main()
 {   
-    int number,i;
+ int number,i;
  for(i=1;i>0;i++)
  {
   cin>>number;
